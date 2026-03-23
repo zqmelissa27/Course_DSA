@@ -1,0 +1,15 @@
+*.exe
+*.o
+*.obj
+*.out
+*.log
+*.aux
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+sorted_*.txt
+performance_metrics.csv
+
+__pycache__/

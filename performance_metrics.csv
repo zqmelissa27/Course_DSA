@@ -1,4 +1,0 @@
-Algoritmo,Tiempo_ms,Memoria_MB
-QuickSort (Vector),128.604,4.39539
-HeapSort (Binary Heap),189.136,4.39539
-AVL Tree,128.413,8.21008
